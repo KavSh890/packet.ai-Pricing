@@ -417,7 +417,7 @@
       "stock_status": "in_stock"
     },
     {
-      "gpu_type": "NVIDIA L40S bitc",
+      "gpu_type": "NVIDIA L40S",
       "gpu_count": 4,
       "plan_type": "dedicated",
       "vram_gb": 192,
