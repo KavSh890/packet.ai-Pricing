@@ -69,6 +69,18 @@
       "vcpu": 12,
       "storage_gb": 150,
       "price_per_gpu_hour_usd": 1.43,
+      "region": "Reading, UK (UK-2)",
+      "stock_status": "in_stock"
+    },
+    {
+      "gpu_type": "NVIDIA A100 PCIe",
+      "gpu_count": 1,
+      "plan_type": "dedicated",
+      "vram_gb": 80,
+      "ram_gb": 80,
+      "vcpu": 12,
+      "storage_gb": 150,
+      "price_per_gpu_hour_usd": 1.43,
       "region": "Reading, UK (UK-3)",
       "stock_status": "in_stock"
     },
@@ -82,7 +94,7 @@
       "storage_gb": 300,
       "price_per_gpu_hour_usd": 1.43,
       "region": "Reading, UK (UK-3)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA A100 PCIe",
@@ -316,7 +328,7 @@
       "storage_gb": 150,
       "price_per_month_usd": 940,
       "effective_hourly_usd": 1.29,
-      "region": "Reading, UK (UK-3)",
+      "region": "Reading, UK (UK-2 / UK-3)",
       "stock_status": "in_stock"
     },
     {
@@ -329,7 +341,7 @@
       "storage_gb": 300,
       "price_per_month_usd": 1775,
       "effective_hourly_usd": 2.43,
-      "region": "Reading, UK (UK-3)",
+      "region": "Reading, UK (UK-2 / UK-3)",
       "stock_status": "in_stock"
     },
     {
@@ -342,7 +354,7 @@
       "storage_gb": 600,
       "price_per_month_usd": 3551,
       "effective_hourly_usd": 4.86,
-      "region": "Reading, UK (UK-3)",
+      "region": "Reading, UK (UK-2 / UK-3)",
       "stock_status": "in_stock"
     },
     {
