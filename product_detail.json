@@ -1,10 +1,4 @@
 {
-  "provider": "packet.ai",
-  "canonical_url": "https://packet.ai/pricing",
-  "contact": "pricing@packet.ai",
-  "currency": "USD",
-  "updated_at": "2026-08-21",
-  "notes": "Dynamic = shared multi-tenant infrastructure. Dedicated = whole card. price_per_gpu_hour_usd for multi-GPU SKUs is per-GPU rate (total = price x gpu_count).",
   "on_demand": [
     {
       "gpu_type": "NVIDIA B200",
