@@ -1,4 +1,5 @@
-
+{
+  "on_demand": [
     {
       "gpu_type": "NVIDIA B200",
       "gpu_count": 1,
@@ -31,7 +32,7 @@
       "ram_gb": 360,
       "vcpu": 48,
       "storage_gb": 700,
-      "price_per_gpu_hour_usd": 6.99,
+      "price_per_gpu_hour_usd": 13.98,
       "region": "Los Angeles, US (LA-1)",
       "stock_status": "in_stock"
     },
@@ -43,7 +44,7 @@
       "ram_gb": 720,
       "vcpu": 96,
       "storage_gb": 1400,
-      "price_per_gpu_hour_usd": 6.99,
+      "price_per_gpu_hour_usd": 27.96,
       "region": "Los Angeles, US (LA-1)",
       "stock_status": "in_stock"
     },
@@ -55,7 +56,7 @@
       "ram_gb": 3000,
       "vcpu": 192,
       "storage_gb": 2800,
-      "price_per_gpu_hour_usd": 6.99,
+      "price_per_gpu_hour_usd": 55.92,
       "region": "Los Angeles, US (LA-1)",
       "stock_status": "out_of_stock"
     },
@@ -91,7 +92,7 @@
       "ram_gb": 160,
       "vcpu": 24,
       "storage_gb": 300,
-      "price_per_gpu_hour_usd": 1.43,
+      "price_per_gpu_hour_usd": 2.86,
       "region": "Reading, UK (UK-3)",
       "stock_status": "out_of_stock"
     },
@@ -103,7 +104,7 @@
       "ram_gb": 320,
       "vcpu": 48,
       "storage_gb": 600,
-      "price_per_gpu_hour_usd": 1.43,
+      "price_per_gpu_hour_usd": 5.72,
       "region": "Reading, UK (UK-3)",
       "stock_status": "out_of_stock"
     },
@@ -127,7 +128,7 @@
       "ram_gb": 128,
       "vcpu": 32,
       "storage_gb": 500,
-      "price_per_gpu_hour_usd": 0.39,
+      "price_per_gpu_hour_usd": 0.78,
       "region": "Dallas, US (Texas)",
       "stock_status": "out_of_stock"
     },
@@ -175,7 +176,7 @@
       "ram_gb": 128,
       "vcpu": 16,
       "storage_gb": 100,
-      "price_per_gpu_hour_usd": 0.92,
+      "price_per_gpu_hour_usd": 1.84,
       "region": "Reading, UK (UK-1)",
       "stock_status": "out_of_stock"
     },
@@ -187,7 +188,7 @@
       "ram_gb": 256,
       "vcpu": 32,
       "storage_gb": 200,
-      "price_per_gpu_hour_usd": 0.92,
+      "price_per_gpu_hour_usd": 3.68,
       "region": "Reading, UK (UK-1)",
       "stock_status": "out_of_stock"
     },
