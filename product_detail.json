@@ -166,7 +166,7 @@
       "storage_gb": 50,
       "price_per_gpu_hour_usd": 0.92,
       "region": "Reading, UK (UK-1)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA L40S",
