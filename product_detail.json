@@ -86,6 +86,18 @@
     },
     {
       "gpu_type": "NVIDIA A100 PCIe",
+      "gpu_count": 1,
+      "plan_type": "dedicated",
+      "vram_gb": 80,
+      "ram_gb": 80,
+      "vcpu": 12,
+      "storage_gb": 150,
+      "price_per_gpu_hour_usd": 1.43,
+      "region": "Reading, UK (UK-4)",
+      "stock_status": "in_stock"
+    },
+    {
+      "gpu_type": "NVIDIA A100 PCIe",
       "gpu_count": 2,
       "plan_type": "dedicated",
       "vram_gb": 160,
@@ -166,7 +178,7 @@
       "storage_gb": 50,
       "price_per_gpu_hour_usd": 0.92,
       "region": "Reading, UK (UK-1)",
-      "stock_status": "out_of_stock"
+      "stock_status": "in_stock"
     },
     {
       "gpu_type": "NVIDIA L40S",
@@ -355,58 +367,6 @@
       "price_per_month_usd": 3551,
       "effective_hourly_usd": 4.86,
       "region": "Reading, UK (UK-2 / UK-3)",
-      "stock_status": "in_stock"
-    },
-    {
-      "gpu_type": "NVIDIA RTX PRO 6000 Blackwell",
-      "gpu_count": 1,
-      "plan_type": "dynamic",
-      "vram_gb": 96,
-      "ram_gb": 96,
-      "vcpu": 6,
-      "storage_gb": 150,
-      "price_per_month_usd": 299,
-      "effective_hourly_usd": 0.41,
-      "region": "Santa Clara, US (us-west-1)",
-      "stock_status": "in_stock"
-    },
-    {
-      "gpu_type": "NVIDIA RTX 4090",
-      "gpu_count": 1,
-      "plan_type": "dedicated",
-      "vram_gb": 24,
-      "ram_gb": 128,
-      "vcpu": 32,
-      "storage_gb": 500,
-      "price_per_month_usd": 263,
-      "effective_hourly_usd": 0.36,
-      "region": "Dallas, US (Texas)",
-      "stock_status": "in_stock"
-    },
-    {
-      "gpu_type": "NVIDIA RTX 4090",
-      "gpu_count": 2,
-      "plan_type": "dedicated",
-      "vram_gb": 48,
-      "ram_gb": 256,
-      "vcpu": 64,
-      "storage_gb": 500,
-      "price_per_month_usd": 511,
-      "effective_hourly_usd": 0.70,
-      "region": "Dallas, US (Texas)",
-      "stock_status": "in_stock"
-    },
-    {
-      "gpu_type": "NVIDIA L40S",
-      "gpu_count": 1,
-      "plan_type": "dedicated",
-      "vram_gb": 48,
-      "ram_gb": 64,
-      "vcpu": 8,
-      "storage_gb": 50,
-      "price_per_month_usd": 604,
-      "effective_hourly_usd": 0.83,
-      "region": "Reading, UK (UK-1)",
       "stock_status": "in_stock"
     },
     {
