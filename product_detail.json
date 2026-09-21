@@ -34,7 +34,7 @@
       "storage_gb": 700,
       "price_per_gpu_hour_usd": 13.98,
       "region": "Los Angeles, US (LA-1)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA B200",
@@ -118,7 +118,7 @@
       "storage_gb": 250,
       "price_per_gpu_hour_usd": 0.39,
       "region": "Dallas, US (Texas)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA RTX 4090",
