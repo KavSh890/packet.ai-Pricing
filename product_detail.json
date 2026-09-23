@@ -70,7 +70,7 @@
       "storage_gb": 150,
       "price_per_gpu_hour_usd": 1.43,
       "region": "Reading, UK (UK-3)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA A100 PCIe",
@@ -82,7 +82,7 @@
       "storage_gb": 150,
       "price_per_gpu_hour_usd": 1.43,
       "region": "Reading, UK (UK-4)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA A100 PCIe",
@@ -204,7 +204,7 @@
       "storage_gb": null,
       "price_per_gpu_hour_usd": null,
       "region": "TBC",
-      "stock_status": "launching_soon"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA RTX 5090",
@@ -216,7 +216,7 @@
       "storage_gb": null,
       "price_per_gpu_hour_usd": null,
       "region": "TBC",
-      "stock_status": "launching_soon"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA H100 SXM",
@@ -228,7 +228,7 @@
       "storage_gb": null,
       "price_per_gpu_hour_usd": null,
       "region": "TBC",
-      "stock_status": "launching_soon"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA H100 SXM",
@@ -240,7 +240,7 @@
       "storage_gb": null,
       "price_per_gpu_hour_usd": null,
       "region": "TBC",
-      "stock_status": "launching_soon"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA H200",
@@ -252,7 +252,7 @@
       "storage_gb": null,
       "price_per_gpu_hour_usd": null,
       "region": "TBC",
-      "stock_status": "launching_soon"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA H200",
@@ -264,7 +264,7 @@
       "storage_gb": null,
       "price_per_gpu_hour_usd": null,
       "region": "TBC",
-      "stock_status": "launching_soon"
+      "stock_status": "out_of_stock"
     }
   ],
   "monthly": [
@@ -331,7 +331,7 @@
       "price_per_month_usd": 940,
       "effective_hourly_usd": 1.29,
       "region": "Reading, UK (UK-3)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA A100 PCIe",
@@ -344,7 +344,7 @@
       "price_per_month_usd": 1775,
       "effective_hourly_usd": 2.43,
       "region": "Reading, UK (UK-3)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA A100 PCIe",
@@ -357,7 +357,7 @@
       "price_per_month_usd": 3551,
       "effective_hourly_usd": 4.86,
       "region": "Reading, UK (UK-3)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA L40S",
