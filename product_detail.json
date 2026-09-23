@@ -142,7 +142,7 @@
       "storage_gb": 150,
       "price_per_gpu_hour_usd": 0.66,
       "region": "Santa Clara, US (us-west-1)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA RTX PRO 6000 Blackwell",
@@ -154,7 +154,7 @@
       "storage_gb": 150,
       "price_per_gpu_hour_usd": 0.66,
       "region": "Santa Clara, US (us-west-3)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA L40S",
@@ -164,6 +164,7 @@
       "ram_gb": 64,
       "vcpu": 8,
       "storage_gb": 50,
+      "storage_type": "ephemeral NVME",
       "price_per_gpu_hour_usd": 0.92,
       "region": "Reading, UK (UK-1)",
       "stock_status": "out_of_stock"
@@ -188,6 +189,7 @@
       "ram_gb": 256,
       "vcpu": 32,
       "storage_gb": 200,
+      "storage_type": "ephemeral NVME",
       "price_per_gpu_hour_usd": 3.68,
       "region": "Reading, UK (UK-1)",
       "stock_status": "out_of_stock"
