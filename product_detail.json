@@ -22,7 +22,7 @@
       "storage_gb": 350,
       "price_per_gpu_hour_usd": 6.99,
       "region": "Los Angeles, US (LA-1)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA B200",
@@ -156,7 +156,7 @@
       "storage_type": "ephemeral NVME",
       "price_per_gpu_hour_usd": 0.66,
       "region": "Santa Clara, US (us-west-3)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA L40S",
@@ -169,7 +169,7 @@
       "storage_type": "ephemeral NVME",
       "price_per_gpu_hour_usd": 0.92,
       "region": "Reading, UK (UK-1)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA L40S",
@@ -281,7 +281,7 @@
       "price_per_month_usd": 2728,
       "effective_hourly_usd": 3.74,
       "region": "Los Angeles, US (LA-1)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA B200",
@@ -294,7 +294,7 @@
       "price_per_month_usd": 5037,
       "effective_hourly_usd": 6.90,
       "region": "Los Angeles, US (LA-1)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA B200",
@@ -307,7 +307,7 @@
       "price_per_month_usd": 10074,
       "effective_hourly_usd": 13.80,
       "region": "Los Angeles, US (LA-1)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA B200",
@@ -320,7 +320,7 @@
       "price_per_month_usd": 20148,
       "effective_hourly_usd": 27.60,
       "region": "Los Angeles, US (LA-1)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA A100 PCIe",
