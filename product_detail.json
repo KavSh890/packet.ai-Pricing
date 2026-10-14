@@ -15,7 +15,7 @@
     {
       "gpu_type": "NVIDIA B200",
       "gpu_count": 1,
-      "plan_type": "monthly",
+      "plan_type": "dedicated",
       "vram_gb": 180,
       "ram_gb": 180,
       "vcpu": 24,
@@ -145,7 +145,7 @@
       "price_per_gpu_month_usd": 299,
       "billing": "monthly_commitment",
       "region": "Santa Clara, US (us-west-1)",
-      "stock_status": "in_stock"
+      "stock_status": "out_of_stock"
     },
     {
       "gpu_type": "NVIDIA RTX PRO 6000 Blackwell",
