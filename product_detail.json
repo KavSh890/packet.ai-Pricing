@@ -162,7 +162,8 @@
       "price_per_gpu_month_usd": 299,
       "billing": "monthly_commitment",
       "region": "Santa Clara, US (us-west-1)",
-      "stock_status": "out_of_stock"
+      "stock_status": "in_stock",
+      "gpu_slots_free": 1
     },
     {
       "gpu_type": "NVIDIA RTX PRO 6000 Blackwell",
@@ -175,7 +176,8 @@
       "storage_type": "ephemeral NVME",
       "price_per_gpu_hour_usd": 0.66,
       "region": "Santa Clara, US (us-west-3)",
-      "stock_status": "out_of_stock"
+      "stock_status": "in_stock",
+      "gpu_slots_free": 1
     },
     {
       "gpu_type": "NVIDIA L40S",
@@ -188,7 +190,8 @@
       "storage_type": "ephemeral NVME",
       "price_per_gpu_hour_usd": 0.92,
       "region": "Reading, UK (UK-1)",
-      "stock_status": "out_of_stock"
+      "stock_status": "in_stock",
+      "gpu_slots_free": 1
     },
     {
       "gpu_type": "NVIDIA L40S",
